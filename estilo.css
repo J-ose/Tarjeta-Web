@@ -4,11 +4,11 @@
     padding: 0;
 }
 body {
-    background: rgba(85, 6, 243, 0.871);
+    background: #6321ed        /*rgba(85, 6, 243, 0.871);*/
 }
 
 .fondo1 {
-    background: rgb(24, 4, 97);
+    background: #3d14ff;      /*rgb(24, 4, 97);*/
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -111,13 +111,13 @@ body {
 }
 
 span{
-    color: blue;
+    color: red;
 }
 
 footer a{
     color: rgb(243, 12, 12);
     text-decoration: none;
-    margin: 0px 20px 20px 200px;
+    margin: 10px 0px 0px 120px;
     
 }
 
